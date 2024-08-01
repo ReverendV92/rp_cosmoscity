@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\cosmos_pd01"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$surfaceprop" "plaster"
+
+}

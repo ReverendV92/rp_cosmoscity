@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/lampost_02-1"
+	"$surfaceprop" "Metal"
+}

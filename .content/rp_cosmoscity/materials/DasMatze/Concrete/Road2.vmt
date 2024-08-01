@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "DasMatze/Concrete/Road2"
+	"$detail" "DasMatze/Concrete/AsphaltDetail"
+	"$surfaceprop" "Concrete"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/splitway_02"
+	"$surfaceprop" "Metal"
+}

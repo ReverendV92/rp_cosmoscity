@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/lampost_05"
+	"$bumpmap" "models/sickness/lampost_05n"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5  .5  .5]"
+	"$alphatest" 1
+	"$nocull" 1
+}

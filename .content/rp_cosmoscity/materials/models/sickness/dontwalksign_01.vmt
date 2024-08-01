@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/dontwalksign_01"
+	"$surfaceprop" "Metal"
+}

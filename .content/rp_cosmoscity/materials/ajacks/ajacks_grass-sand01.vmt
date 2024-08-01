@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture2" "nature/sandfloor009b"
+	"$basetexture" "ajacks/ajacks_grass01"
+
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "sand"
+
+}

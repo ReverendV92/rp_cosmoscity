@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/speedlimitsign_001"
+	"$surfaceprop" "Metal"
+}

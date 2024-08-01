@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+"$basetexture" "decals/cardetails"
+"$translucent" 1
+ "Proxies" 
+{
+
+ "TextureScroll"
+{
+"texturescrollvar" "$basetexturetransform"
+"texturescrollrate" 0.4
+"texturescrollangle" 90
+} 
+
+}
+}
